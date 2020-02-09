@@ -8,7 +8,5 @@ public class Test {
 		st.setMarks(78.65);
 		System.out.println(st.getRoll());
 		System.out.println(st.getMarks());
-
 	}
-
 }
